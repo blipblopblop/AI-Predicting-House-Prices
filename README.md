@@ -1,2 +1,2 @@
-# AI_PredictingHousePrices
-Determining the market price of a house given a set of features. Analyzing and predicting housing prices using attributes or features such as square footage, number of bedrooms, number of floors etc.
+# Predicting Housing Prices
+Data science analysis is applied to determine the market price of houses by fitting the data with linear regression and predicting prices through pipelining which are further evaluated using ridge regression and R^2.
